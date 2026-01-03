@@ -18,22 +18,7 @@ These should render as colored boxes with icons:
 > [!CAUTION]
 > This is a caution. It should look red.
 
----
 
-## 2. Obsidian Specific Callouts
-These are valid in Obsidian but **not** standard in GitHub. They will likely look like plain quotes:
-
-> [!todo]
-> This is a to-do item. In Obsidian, this is blue. Here, it is likely a generic quote.
-
-> [!bug]
-> This represents a bug.
-
----
-
-## 3. Link Syntax
+## 2. Link Syntax
 **Standard Markdown:**
 [Click here to go to the readme](README.md) <--- This should work.
-
-**Obsidian Wikilink:**
-[[README]] <--- This will likely appear as plain text or a broken link.
