@@ -141,7 +141,6 @@ lightTheme = "light"
 darkTheme = "dark_dimmed"
 lang = "en"
 loading = "lazy"
-emitMetadata = 0
 
 [comments.gitalk]
 owner = ""
