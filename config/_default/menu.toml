@@ -15,4 +15,12 @@ url = "https://github.com/LT-NP"
 [social.params]
 icon = "brand-github"
 
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/lu%C3%ADs-tadeu-pires-009898150/"
+weight = 20
 
+[social.params]
+icon = "linkedin"
+newTab = true
