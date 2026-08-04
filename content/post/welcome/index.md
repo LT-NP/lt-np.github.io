@@ -1,15 +1,14 @@
 ---
 title: "Welcome"
-description: "An introduction..."
-date: 2026-08-05
+description: "An introduction to myself"
+date: 2026-08-05T00:30:00+02:00
 image: cover.jpg
 draft: false
 comments: true
 categories:
     - General
 tags:
-    - Research
-    - Applied mathematics
+    - Blog
 ---
 
 Testing... 1 2 3...
