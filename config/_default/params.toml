@@ -19,7 +19,7 @@ subtitle = "PhD candidate in applied mathematics"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.jpeg"
+src = "img/avatar-square.jpeg"
 
 [article]
 headingAnchor = false
