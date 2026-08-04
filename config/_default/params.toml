@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "giscus"
 
 [comments.disqusjs]
 shortname = ""
@@ -128,14 +128,19 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
+repo = "LT-NP/lt-np.github.io"
 repoID = "R_kgDOOs4ZFA"
-category = ""
+category = "Announcements"
 categoryID = "DIC_kwDOOs4ZFM4DCrwK"
-mapping = ""
-lightTheme = ""
-darkTheme = ""
+mapping = "pathname"
+strict = 0
 reactionsEnabled = 1
+emitMetadata = 0
+inputPosition = "top"
+lightTheme = "light"
+darkTheme = "dark_dimmed"
+lang = "en"
+loading = "lazy"
 emitMetadata = 0
 
 [comments.gitalk]
